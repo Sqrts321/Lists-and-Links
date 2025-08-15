@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>
     Top 5 Favorite Websites
-  </title>
 </head>
 <body>
 
